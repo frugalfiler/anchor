@@ -5,7 +5,7 @@
 
 ![Anchor Logo](https://raw.githubusercontent.com/greymass/anchor/master/internals/img/anchor.png)
 
-# Anchor - A feature rich, open-source, EOSIO Wallet
+# Anchor - A feature rich, open-source, Antelope Wallet
 
 ![Anchor Screenshot 1](https://raw.githubusercontent.com/greymass/anchor/master/internals/img/anchor-ss1.png)
 
@@ -13,12 +13,12 @@
 
 Some of the notable features of Anchor include, but are not limited to:
 
-- A user interface that supports common EOSIO functions (token transfers, resource management, governance, etc).
+- A user interface that supports common Antelope functions (token transfers, resource management, governance, etc).
 - Direct integration with [Greymass Fuel](http://greymass.com/fuel), which provides limited [free CPU/NET resources to every account](https://greymass.com/en/blog/5ms-worth-of-free-transactions-available-now-in-anchor-wallet-wallet/) on compatible networks.
-- Support for nearly every EOSIO-based blockchain (EOS, Telos, WAX, etc), with new networks added as they launch.
+- Support for nearly every Antelope-based blockchain (EOS, Telos, WAX, etc), with new networks added as they launch.
 - Locally encrypted key storage using AES-256 - your private keys never leave the wallet.
 - Optional integration with [Ledger Hardware Wallets](https://www.ledger.com/) for additional key security.
-- Rich integration with external applications any EOSIO-based blockchain using the [EOSIO Signing Request](https://github.com/greymass/eosio-signing-request) protocol.
+- Rich integration with external applications any Antelope-based blockchain using the [EOSIO Signing Request](https://github.com/greymass/eosio-signing-request) protocol.
 
 A dedicated Anchor website will be released in the future with a more detailed breakdown of everything that Anchor offers. To experience it all yourself today, download and give it a try.
 
@@ -33,12 +33,12 @@ When downloading from either location, check the URL bar of your browser to ensu
 
 ### Current Release
 
-The most recent (v1.3.9) release can downloaded using these links:
+The most recent (v1.3.12) release can downloaded using these links:
 
-- [Windows Installer](https://github.com/greymass/anchor/releases/download/v1.3.9/win-anchor-wallet-1.3.9.exe)
-- [macOS Package](https://github.com/greymass/anchor/releases/download/v1.3.9/mac-anchor-wallet-1.3.9-x64.dmg)
-- [Linux (deb)](https://github.com/greymass/anchor/releases/download/v1.3.9/linux-anchor-wallet-1.3.9-amd64.deb)
-- [Linux (AppImage)](https://github.com/greymass/anchor/releases/download/v1.3.9/linux-anchor-wallet-1.3.9-x86_64.AppImage)
+- [Windows Installer](https://github.com/greymass/anchor/releases/download/v1.3.12/win-anchor-wallet-1.3.12.exe)
+- [macOS Package](https://github.com/greymass/anchor/releases/download/v1.3.12/mac-anchor-wallet-1.3.12-x64.dmg)
+- [Linux (deb)](https://github.com/greymass/anchor/releases/download/v1.3.12/linux-anchor-wallet-1.3.12-amd64.deb)
+- [Linux (AppImage)](https://github.com/greymass/anchor/releases/download/v1.3.12/linux-anchor-wallet-1.3.12-x86_64.AppImage)
 
 The latest release will always be available on the releases page of this repository:
 
